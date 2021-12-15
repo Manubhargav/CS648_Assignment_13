@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,sBAAuB,CACvB,WACF,CACA,mBACE,aACF","file":"main.324c2a1d.chunk.css","sourcesContent":["body {\n  font-family: sans-serif;\n  margin:20px;\n}\nform:nth-of-type(1) {\n  margin: 20px 0;\n}"]}
